@@ -124,7 +124,7 @@ colormap(gray(255))
 ```
 ![image](http://upload-images.jianshu.io/upload_images/9147346-76678a2eb491099a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-#### d) Compute the probability of error of your algorithm.
+#### d) Compute the probability of error of algorithm.
 
 * The hit counts add 1 for each time: predictor and test are both zero or both positive.
 
