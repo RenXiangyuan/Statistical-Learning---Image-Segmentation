@@ -53,7 +53,8 @@ subplot(2,1,1);
 bar(1:64,times0(1:64));
 title 'Grass-64'
 ```
-![image](http://note.youdao.com/yws/public/resource/1ba3fcc3afdc6b54fc36c98c8d56def0/xmlnote/WEBRESOURCEff55b54adb82e75a547e85695c025f10/582)
+![image](http://upload-images.jianshu.io/upload_images/9147346-0124203fdec8b840.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 * To get the conditional probability:
 
@@ -121,7 +122,7 @@ end
 imagesc(img)
 colormap(gray(255))
 ```
-![image](http://note.youdao.com/yws/public/resource/1ba3fcc3afdc6b54fc36c98c8d56def0/xmlnote/WEBRESOURCE779369730e6143774cdf7d1075761e56/632)
+![image](http://upload-images.jianshu.io/upload_images/9147346-76678a2eb491099a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 #### d) Compute the probability of error of your algorithm.
 
