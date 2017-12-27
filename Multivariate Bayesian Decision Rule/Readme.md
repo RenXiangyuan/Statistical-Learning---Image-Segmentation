@@ -1,7 +1,7 @@
 
 ### Classify our cheetah example. Assume that the class-conditional densities are multivariate Gaussians of 64 dimensions.
 ---
-#### a)  Compute the histogram estimate of the prior probility. Compute the maximum likelihood estimate for the prior probabilities. Compare the result with the estimates that you obtained last week.
+#### a)  Compute the histogram estimate of the prior probility. Compute the maximum likelihood estimate for the prior probabilities. Compare the result with the previous BDR one.
 
 * Using the histogram, I get the times that Cheetah and grass appears are 250 and 1053 respectively. Thus:
 ```math
